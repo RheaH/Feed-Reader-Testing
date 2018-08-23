@@ -30,4 +30,5 @@ The tests:
 Resources
 
 https://matthewcranford.com/feed-reader-walkthrough-part-1-starter-code/
+
 Jasmine Documentation. (n.d.). Retrieved from https://jasmine.github.io/
