@@ -50,7 +50,7 @@ $(function() {
         // test that ensures the menu element is hidden by default. 
 
         it('is hidden by default', function() {
-            var checkForClass = $('body').hasClass('menu-hidden');
+            let checkForClass = $('body').hasClass('menu-hidden');
             expect(checkForClass).toBe(true);
         });
 
@@ -81,7 +81,7 @@ $(function() {
             });
 
         it('are present when LoadFeed is called', function() {
-            var checkForEntry = $('.feed .entry').length;
+            let checkForEntry = $('.feed .entry').length;
             expect(checkForEntry).toBeGreaterThan(0);
         });
 
