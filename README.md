@@ -6,7 +6,7 @@ To run application:
 
 Start the app, open feedreader.html in your browser.
 
-The tests were written in the feedreader.js file. The test results appears at the bottom of the index.html page.
+The tests were written in the feedreader.js file. The test results appears at the bottom of the feedreader.html page.
 
 Tests that are green have passed and red have failed.
 
