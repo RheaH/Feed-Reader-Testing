@@ -100,6 +100,8 @@ $(function() {
         beforeEach(function(done){
             loadFeed(0, function () {
                 initialFeed = $('.feed').html();
+                
+                loadFeed(1, function() {
                 done();                
             });
         });
